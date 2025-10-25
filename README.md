@@ -49,4 +49,5 @@ You can sign up for beta-testing Pythonista Lab [here](https://pythonista.app/la
 
 ## External Links
 
-* [Pythonista-Tools](https://github.com/Pythonista-Tools) – (inofficial) An open GitHub Organization of people who want to collaborate to build great tools around Pythonista for iOS
+* [Pythonista-Tools](https://github.com/Pythonista-Tools) – (inofficial) An open GitHub Organization of people who want to collaborate to build great tools around Pythonista https://github.com/omz/Pythonista.git
+* for iOS
